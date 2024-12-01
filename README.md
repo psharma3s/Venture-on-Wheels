@@ -1,0 +1,1 @@
+This is my personal project that I'm currently working on. I'm developing an app that helps users plan the perfect road trip, whether it be a long or short one, with many guides and suggestions along the way to make the most out of your trip. 
